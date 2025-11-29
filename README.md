@@ -8,7 +8,7 @@ https://moviegpt-c91e8.web.app/
 ## 🧰 Tech Stack
 
 - JavaScript
-- HTML & CSS  
+- HTML , CSS  & Tailwind
 - Redux
 - Firebase 
 
